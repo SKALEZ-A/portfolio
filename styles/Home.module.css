@@ -104,7 +104,7 @@
   transform: translateZ(0);
 }
 
-.logo,
+
 .thirteen {
   position: relative;
 }
@@ -262,11 +262,11 @@
     filter: invert(1);
   }
 
-  .logo,
+  /* .logo,
   .thirteen img {
     filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
   }
-}
+} */
 
 @keyframes rotate {
   from {
